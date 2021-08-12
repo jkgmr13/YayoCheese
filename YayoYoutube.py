@@ -7,11 +7,10 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 driver_path = "C:\\Users\\jkgmr13\\Desktop\\selenium practice\\chromedriver.exe"
-option = webdriver.ChromeOptions()
-option.binary_location = brave_path
 
 
-driver = webdriver.Chrome(executable_path=driver_path, chrome_options=option)
+
+driver = webdriver.Chrome(executable_path=driver_path)
 driver.implicitly_wait(5)
 
 driver.get("https://www.youtube.com/watch?v=-lz5l5fG96I")
