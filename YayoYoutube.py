@@ -6,7 +6,7 @@ from selenium.webdriver.common import action_chains
 from selenium.webdriver.common.keys import Keys
 import time
 
-driver_path = "C:\\Users\\jkgmr13\\Desktop\\selenium practice\\chromedriver.exe"
+driver_path = "Put your chrome path here! Make sure to use \\ instead of \"
 
 
 
