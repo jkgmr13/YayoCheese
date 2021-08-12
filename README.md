@@ -3,6 +3,7 @@
 
 # Installation
 - Download the chrome webdriver and set the file path for chrome_driver in YayoYoutube.py to wherever it is located on your local machine.
+- MAKE SURE THE CHROME DRIVER IS THE CORRECT ONE FOR YOUR INSTALLATION OF CHROME
 - Download Python 3.9
 - Install pip
 - Install selenium
