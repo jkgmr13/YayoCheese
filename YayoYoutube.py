@@ -7,7 +7,6 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 driver_path = "C:\\Users\\jkgmr13\\Desktop\\selenium practice\\chromedriver.exe"
-brave_path = "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
 option = webdriver.ChromeOptions()
 option.binary_location = brave_path
 
