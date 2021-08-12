@@ -6,7 +6,7 @@
 - Download Python 3.9
 - Install pip
 - Install selenium
-- Run the 
+- Run YayoYoutube.py (double click)
 # Requirements
 - Python 3.9
 - Pip
