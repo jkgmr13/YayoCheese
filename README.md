@@ -3,8 +3,11 @@
 
 # Installation
 - Download the chrome webdriver and set the file path for chrome_driver to wherever it is located on your local machine.
+- Download Python 3.9
 - Install pip
 - Install selenium
+- Run the 
 # Requirements
+- Python 3.9
 - Pip
 - Selenium
